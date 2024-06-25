@@ -55,4 +55,3 @@ Dengan menerapkan sistem basis data ini, toko bunga dapat meraih berbagai manfaa
 Sistem basis data untuk toko bunga adalah alat yang penting untuk menghadapi tantangan operasional dan memanfaatkan peluang bisnis secara lebih efektif. Dengan sistem ini, toko bunga dapat mengoptimalkan operasionalnya, meningkatkan layanan pelanggan, dan mengambil keputusan bisnis yang lebih baik berdasarkan data yang akurat dan terstruktur.
 
 ## Skema Basis Data
-
